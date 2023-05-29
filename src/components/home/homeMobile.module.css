@@ -1,0 +1,11 @@
+.homePage {
+	background-color: rgba(239, 239, 239, 0.506);
+	overflow: hidden;
+}
+.homeContent {
+	display: flex;
+	flex-direction: column;
+	gap: 3rem;
+	margin: 3rem 2rem 4remm 2rem;
+	margin-top: 3rem;
+}

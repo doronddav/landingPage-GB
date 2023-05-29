@@ -1,0 +1,59 @@
+.allContactBox {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row-reverse;
+	gap: 15rem;
+	align-self: center;
+	z-index: 10;
+	margin-top: 5rem;
+}
+.contacxtContainer {
+	direction: rtl;
+	font-family: "Rubik-Bold";
+	font-size: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	position: relative;
+	background: rgba(255, 255, 255, 0.15);
+	border-radius: 16px;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+	border: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 2rem 1rem;
+	transition: scale 0.5s;
+	z-index: 1;
+	gap: 1rem;
+	width: 30%;
+	margin-right: 4rem;
+	width: 30rem;
+	padding-right: 2rem;
+}
+.contactTitle {
+}
+.formContainer {
+	display: flex;
+	flex-direction: column;
+}
+.inputAndTitleBox {
+	display: flex;
+	flex-direction: column;
+	width: 25rem;
+}
+.topicAndMail {
+	width: 90%;
+	height: 1.4rem;
+	border-radius: 10px;
+}
+.messageContent {
+	height: 10rem;
+	border-radius: 10px;
+}
+.ContactDogImg {
+	z-index: 5;
+}
+.ContactDogImg img {
+	transform: scaleX(-1);
+}

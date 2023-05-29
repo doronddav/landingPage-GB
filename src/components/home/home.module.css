@@ -1,0 +1,9 @@
+.homePage {
+	background-color: rgba(239, 239, 239, 0.506);
+}
+.homeContent {
+	display: flex;
+	flex-direction: column;
+	gap: 5rem;
+	margin: 5rem;
+}

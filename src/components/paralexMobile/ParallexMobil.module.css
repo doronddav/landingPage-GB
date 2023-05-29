@@ -1,0 +1,89 @@
+.boneSmall {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 100px;
+	height: 40px;
+	background-image: url("../../images/backgroundImages/bone.png");
+	background-size: cover;
+	z-index: 0;
+	filter: contrast(0.1);
+
+	/* transition: all 0.1s; */
+}
+.blackBoneSmall {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 100px;
+	height: 40px;
+	background-image: url("../../images/backgroundImages/bone.png");
+	background-size: cover;
+	z-index: 0;
+
+	/* transition: all 0.1s; */
+}
+.boneBig {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 130px;
+	height: 60px;
+	background-image: url("../../images/backgroundImages/bone.png");
+	background-size: cover;
+	z-index: 0;
+
+	/* transition: all 0.1s; */
+}
+.dogpawBig {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 120px;
+	height: 120px;
+	background-image: url("../../images/backgroundImages/kisspng-dog-paw-cougar-clip-art-paw-5abf143f32eb62.4577617415224719992086.png");
+	background-size: cover;
+	z-index: 0;
+
+	/* transition: all 0.1s; */
+}
+.dogMiddle {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 85px;
+	height: 85px;
+	background-image: url("../../images/backgroundImages/kisspng-dog-paw-cougar-clip-art-paw-5abf143f32eb62.4577617415224719992086.png");
+	background-size: cover;
+	z-index: 0;
+	filter: contrast(0.3);
+
+	/* transition: all 0.1s; */
+}
+.dogPawSmall {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 50px;
+	height: 50px;
+	background-image: url("../../images/backgroundImages/kisspng-dog-paw-cougar-clip-art-paw-5abf143f32eb62.4577617415224719992086.png");
+	background-size: cover;
+	z-index: 0;
+	filter: contrast(0.1);
+
+	/* transition: all 0.1s; */
+}
+
+.plate1 {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 60px;
+	height: 60px;
+	background-image: url("../../images/backgroundImages//dogPlate.svg");
+	background-size: cover;
+	z-index: 0;
+	filter: contrast(0.5);
+
+	/* transition: all 0.1s; */
+}

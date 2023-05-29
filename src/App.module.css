@@ -1,0 +1,4 @@
+.fullSite {
+	display: flex;
+	flex-direction: column;
+}

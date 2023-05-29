@@ -1,0 +1,26 @@
+.footerContainer {
+	display: flex;
+	flex-direction: column;
+	padding-top: 1rem;
+	background-color: grey;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	justify-content: center;
+	place-items: center;
+	height: 6rem;
+	color: white;
+}
+.businnessDetails {
+	display: flex;
+	flex-direction: row;
+	gap: 4rem;
+	align-items: center;
+	justify-content: space-between;
+}
+.emailAndPhone {
+	margin: 0;
+}
+.webMaker {
+	font-size: 0.8rem;
+}

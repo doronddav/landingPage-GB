@@ -1,0 +1,23 @@
+.navbar {
+	width: 100%;
+	background-color: #575858;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 0.9rem;
+	/* position: sticky; */
+	top: 0;
+	z-index: 20;
+	display: flex;
+	color: white;
+}
+.navContainer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100vh;
+	height: 60px;
+	max-width: 1500px;
+	margin: 0 1rem;
+}

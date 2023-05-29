@@ -1,0 +1,25 @@
+.main {
+	position: relative;
+	z-index: 30;
+}
+.main img {
+	width: 100%;
+}
+.mainText {
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	transform: translate(-20%, -50%);
+	color: white;
+}
+.name {
+	font-size: 5rem;
+	font-family: "Dancing Script", cursive;
+	margin: 0;
+	font-size: 6rem;
+}
+
+.title {
+	font-family: "Dancing Script", cursive;
+	font-size: 2rem;
+}
